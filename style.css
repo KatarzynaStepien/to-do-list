@@ -1,0 +1,32 @@
+.container {
+    width: 400px;
+    height: 500px;
+    background-color: lightblue;
+
+}
+
+.title {
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    margin-left: 25%;
+}
+
+.title h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+
+.list {
+    margin-top: 10%;
+    border: 1px solid white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#toDoInput {
+    margin-left: 15px;
+}
