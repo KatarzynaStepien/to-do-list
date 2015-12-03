@@ -29,4 +29,26 @@
 
 #toDoInput {
     margin-left: 15px;
+    margin-top: 10px;
+}
+
+#buttonAdd {
+    border-radius: 10%;
+    border: 1px solid white;
+    background-color: lightblue;
+    color: white;
+}
+#buttonClear {
+    border-radius: 10%;
+    border: 1px solid white;
+    background-color: lightblue;
+    color: white;
+}
+
+.todoList {
+    margin-left: 15px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-height: bold;
 }
